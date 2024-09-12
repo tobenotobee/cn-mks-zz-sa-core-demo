@@ -1,0 +1,10 @@
+server:
+  port: 8088
+
+
+
+spring:
+  datasource:
+    url:
+    username: "postgres"
+    password: "postgres"
